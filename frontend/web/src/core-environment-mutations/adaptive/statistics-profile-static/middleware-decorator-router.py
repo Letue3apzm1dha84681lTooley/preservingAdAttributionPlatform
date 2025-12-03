@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\project\demo\frontend\web\src\core-environment-mutations\adaptive\statistics-profile-static\middleware-decorator-router.py
+// Generated at: 2025-09-30T13:10:12.775Z
